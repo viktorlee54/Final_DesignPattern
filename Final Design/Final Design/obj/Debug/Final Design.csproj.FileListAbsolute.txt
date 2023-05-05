@@ -1,0 +1,79 @@
+C:\Users\Admin\Downloads\Final Design\Final Design\bin\Debug\Final Design.exe.config
+C:\Users\Admin\Downloads\Final Design\Final Design\bin\Debug\Final Design.exe
+C:\Users\Admin\Downloads\Final Design\Final Design\bin\Debug\Final Design.pdb
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final_Design.Form1.resources
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final_Design.Properties.Resources.resources
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final_Design.View.OrderSceen.resources
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final_Design.View.Form1.resources
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final Design.exe
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final Design.pdb
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final_Design.View.KitchenSceen.resources
+C:\Users\Admin\Downloads\Final Design\Final Design\obj\Debug\Final_Design.View.StaffSceen.resources
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\bin\Debug\Final Design.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\bin\Debug\Final Design.exe
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\bin\Debug\Final Design.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final Design.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final_Design.View.KitchenSceen.resources
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final_Design.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final_Design.View.OrderSceen.resources
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final_Design.View.StaffSceen.resources
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final_Design.View.TableManage.resources
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final Design.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final Design.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final Design.exe
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final Design.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final_Design.MainForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\Final Design\Final Design\obj\Debug\Final_Design.View.PaymentForm.resources
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\Final Design.exe.config
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\Final Design.exe
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\Final Design.pdb
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.View.KitchenSceen.resources
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.MainForm.resources
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.Properties.Resources.resources
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.View.OrderSceen.resources
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.View.StaffSceen.resources
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.View.TableManage.resources
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.exe
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.pdb
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Downloads\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.CopyComplete
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\Final Design.exe.config
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\Final Design.exe
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\Final Design.pdb
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.View.KitchenSceen.resources
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.MainForm.resources
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.Properties.Resources.resources
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.View.OrderSceen.resources
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.View.StaffSceen.resources
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final_Design.View.TableManage.resources
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.csproj.CopyComplete
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.exe
+C:\Users\Admin\Desktop\Design patten\DSP\Final_Designpattern_Demo\Final Design\Final Design\obj\Debug\Final Design.pdb
